@@ -2,10 +2,6 @@
 
 > A low-cost autonomous quadcopter equipped with a thermal camera for real-time hotspot detection in overhead power transmission lines.
 
-<p align="center">
-  <img src="assets/images/drone.jpg" width="700">
-</p>
-
 ---
 
 ## 📖 Overview
@@ -156,40 +152,6 @@ Before flight:
 - Flight Mode Configuration
 - GPS Lock (6–8 Satellites)
 - Battery Check
-
----
-
-# 📸 Results
-
-### Thermal Image (Without Interpolation)
-
-<p align="center">
-<img src="assets/images/thermal_before.png" width="500">
-</p>
-
----
-
-### Thermal Image (With Interpolation)
-
-<p align="center">
-<img src="assets/images/thermal_after.png" width="500">
-</p>
-
----
-
-### Hotspot Detected
-
-<p align="center">
-<img src="assets/images/hotspot.png" width="500">
-</p>
-
----
-
-### Final Drone
-
-<p align="center">
-<img src="assets/images/drone.jpg" width="600">
-</p>
 
 ---
 
