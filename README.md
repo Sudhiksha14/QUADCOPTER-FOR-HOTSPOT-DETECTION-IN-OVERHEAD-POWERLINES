@@ -72,29 +72,6 @@ Unlike AI-based inspection systems, this prototype focuses on **manual real-time
 
 ---
 
-# 📂 Repository Structure
-
-```
-UAV-Hotspot-Detection
-│
-├── assets
-│   └── images
-│
-├── hardware
-│
-├── software
-│
-├── MissionPlanner
-│
-├── docs
-│
-├── README.md
-├── LICENSE
-└── requirements.txt
-```
-
----
-
 # 🔌 System Architecture
 
 ```
@@ -156,48 +133,6 @@ Thermal Heatmap
     ▼
 Hotspot Detection
 ```
-
----
-
-# 🔧 Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/yourusername/UAV-Hotspot-Detection.git
-```
-
-## Move into Project
-
-```bash
-cd UAV-Hotspot-Detection
-```
-
-## Create Virtual Environment
-
-```bash
-python3 -m venv mlx_env
-```
-
-## Activate Environment
-
-```bash
-source mlx_env/bin/activate
-```
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Run
-
-```bash
-python thermal_camera.py
-```
-
----
 
 # 🔗 Sensor Connections
 
@@ -292,4 +227,3 @@ Anna University
 
 ---
 
-## ⭐ If you found this project useful, consider giving this repository a star!
